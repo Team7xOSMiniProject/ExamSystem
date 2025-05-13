@@ -1,0 +1,8 @@
+Exam Name: dsa
+Exam type: q
+Start Time: 
+Duration (minutes): 3
+Total Questions: 10
+Instructor: Tiasa
+Questions File: ../data/exams/questions_dsa.txt
+Answers File: ../data/exams/answers_dsa.txt

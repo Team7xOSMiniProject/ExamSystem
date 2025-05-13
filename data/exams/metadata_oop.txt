@@ -1,0 +1,8 @@
+Exam Name: oop
+Exam type: q
+Start Time: 
+Duration (minutes): 2
+Total Questions: 10
+Instructor: D
+Questions File: ../data/exams/questions_oop.txt
+Answers File: ../data/exams/answers_oop.txt
