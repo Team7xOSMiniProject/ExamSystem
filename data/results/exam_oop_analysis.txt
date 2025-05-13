@@ -1,5 +1,0 @@
-B A C D A C C C B D 
-S D 120 - 6 - 0 - 0 A 31 - 0 - 0 - 3 - 0 - 0
-Sneha B 7 A 14 C 12 D 9 A 6 C 0 C 7 C 15 A 12 A 21
-Sneha B 17 A 0 C 4 D 4 A 22 C 9 C 19 C 5 A 8 A 8
-Sneha B 7 A 10 C 7 D 12 A 14 C 9 C 0 C 6 B 5 A 6

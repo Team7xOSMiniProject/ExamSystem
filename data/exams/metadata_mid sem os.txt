@@ -1,8 +1,0 @@
-Exam Name: mid sem os
-Exam type: q
-Start Time: 
-Duration (minutes): 2
-Total Questions: 10
-Instructor: r
-Questions File: ../data/exams/questions_mid sem os.txt
-Answers File: ../data/exams/answers_mid sem os.txt

@@ -1,3 +1,0 @@
-mid sem os|../data/exams/metadata_mid sem os.txt
-oop|../data/exams/metadata_oop.txt
-DSA|../data/exams/metadata_DSA.txt
