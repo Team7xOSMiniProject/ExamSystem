@@ -3,6 +3,9 @@
 A terminal-based **MCQ (Multiple Choice Questions) Exam System** built in C++ using socket programming and file management. This system supports both **students** and **instructors**, allowing practice and scheduled exams with detailed performance analysis.
 
 ---
+## 🎥 Project Demo
+
+Watch the full project and ppt description here: https://youtu.be/n-OU9DSvR0w
 
 ## 📁 Project Structure
 
