@@ -7,6 +7,10 @@ A terminal-based **MCQ (Multiple Choice Questions) Exam System** built in C++ us
 
 Watch the full project and ppt description here: https://youtu.be/n-OU9DSvR0w
 
+## 📊 PPT Presentation
+
+View the project presentation slides here: [MCQ Exam System Presentation](https://www.canva.com/design/DAGhsuBMzIk/aZwBbHeJRop1kpBo4PQoGA/view?utm_content=DAGhsuBMzIk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcff6588bde)
+
 ## 📁 Project Structure
 
 ```
